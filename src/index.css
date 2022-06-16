@@ -1,0 +1,23 @@
+/* :root {
+  --background: white;
+  --text: black;
+  --background-secondary: #FBFAFB;
+}
+
+[data-theme='dark'] {
+  --background: #1F2A36;
+  --text: white;
+  --background-secondary: #293843;
+}
+.first {
+	background-color: var(--background) !important;
+	color: var(--text) !important;
+}
+.secondary {
+	background-color: var(--background-secondary) !important;
+	color: var(--text) !important;
+}
+
+.first, .secondary {
+	transition: all .3s ease;
+} */
